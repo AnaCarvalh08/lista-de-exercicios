@@ -1,0 +1,16 @@
+body {
+    background-color: rgba(243, 177, 243, 0.411);
+
+    font-size: 25px;
+}
+
+.perguntas {
+    color: rgba(117, 12, 117, 0.973);
+    ;
+}
+
+.respostas {
+    font-family: "Dancing Script", cursive;
+}
+
+hr { background-color: rgb(255, 255, 255); height: 1px; border: 0; }
